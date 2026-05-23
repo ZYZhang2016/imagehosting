@@ -1,2 +1,2 @@
 # imagehosting
-Image hosting service
+Image hosting library
